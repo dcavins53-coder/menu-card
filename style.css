@@ -57,7 +57,7 @@ button:hover {
 
 /* The menu looks like a chalkboard */
 #menu-text {
-  white-space: pre-line;   /* each item on its own line */
+  white-space: pre-line; /* each item on its own line */
   background-color: #2b2b2b;
   color: #fdf2e3;
   font-size: 1.2rem;
